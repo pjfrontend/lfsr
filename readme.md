@@ -1,4 +1,5 @@
 # Linear Feedback Shift Register
+https://pjfrontend.github.io/lfsr/
 
 ## links:
 - https://james.darpinian.com/blog/integer-math-in-javascript
